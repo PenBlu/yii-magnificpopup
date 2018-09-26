@@ -1,5 +1,5 @@
 Example Extension
-Extension de ejemplo creada por PenBlu
+Extension de magnificpopup creada por PenBlu
 
 Installation
 The preferred way to install this extension is through composer.
