@@ -51,6 +51,7 @@ class MagnificPopupAsset extends AssetBundle {
     ];
     public $js = [
         'js/jquery.magnificPopup.min.js',
+        'js/additionalPopUp.js',
     ];
     public $depends = [
         'yii\web\JqueryAsset',
